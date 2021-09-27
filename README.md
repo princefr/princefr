@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Dart
+- 🌱 I’m currently learning ... Dart, Rust
 - 👯 I’m looking to collaborate on ... Anything
-- 🤔 I’m looking for help with ... Dart
+- 🤔 I’m looking for help with ... Dart, Rust
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... pondonda@gmail.com
 - 😄 Pronouns: ... he/him
