@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Dart, Rust
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... pondonda@gmail.com
-- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... 
 
