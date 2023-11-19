@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 👯 I’m looking to collaborate on ... Anything
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently working on ...an exchange written in rust.
 - 📫 How to reach me: ... pondonda@gmail.com
-- ⚡ Fun fact: ... 
-
+- ⚡ Fun fact: i like drawing and i'm an religion history buff.
