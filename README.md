@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princefr&label=Views&color=blue&style=plastic" alt="princefr" /> </p>
 
-Here are some ideas to get you started:
+Software Eng:
 
 - 🔭 I’m currently working on ...an exchange written in rust.
 - 📫 How to reach me: ... pondonda@gmail.com
